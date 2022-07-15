@@ -10,3 +10,12 @@
 ### Installation
 
 The library is available on [NuGet](https://www.nuget.org/packages/GestioneSagre.BaseLibrary).
+
+
+### Referenced packages
+
+- Microsoft.AspNetCore.Hosting
+- Microsoft.Extensions.Configuration
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.Extensions.Logging
+- Microsoft.Extensions.Options
